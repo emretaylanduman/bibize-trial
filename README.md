@@ -1,2 +1,3 @@
 # bibize-trial
-Bizbize seminerler Git/Github Deneme
+Bizbize seminerler Git/Github Denem
+Hello world
